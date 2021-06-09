@@ -1,0 +1,2 @@
+rootProject.name = "QuestGet2"
+include ':app'
